@@ -45,3 +45,15 @@ Queue
 Trees  
 Graphs  
 DynamicProgramming
+
+
+## #100DaysOfCode Progress
+
+| Day | Problem Name | Concept |
+|----|---------------|---------|
+| Day 1 | Two Sum | HashMap / Array lookup |
+| Day 2 | Valid Parentheses | Stack |
+| Day 3 | Climbing Stairs | Dynamic Programming / Fibonacci |
+| Day 4 | Minimum Capacity Box | Array traversal / Greedy selection |
+| Day 5 | Best Time to Buy and Sell Stock | Greedy / Tracking minimum |
+| Day 6 | Maximum Subarray | Kadane’s Algorithm |
